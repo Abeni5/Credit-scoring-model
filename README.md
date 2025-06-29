@@ -74,7 +74,7 @@ dagiteferi-credit-scoring-model/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-repo/dagiteferi-credit-scoring-model.git
+git clone https://github.com/https://github.com/Abeni5/Credit-scoring-model
 cd dagiteferi-credit-scoring-model
 python3 -m venv venv
 source venv/bin/activate  # Linux/Mac
