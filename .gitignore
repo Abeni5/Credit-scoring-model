@@ -1,0 +1,8 @@
+venv/
+data
+__pycache__
+logs
+db.sqlite3
+*.pyc
+.pytest_cache
+refine.py
